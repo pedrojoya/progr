@@ -85,9 +85,7 @@ public class Sandwich {
 
         public Sandwich build() {
             validateMandatoryFields();
-            Sandwich sandwich = new Sandwich(this);
-            reset();
-            return sandwich;
+            return new Sandwich(this);
         }
 
         private void validateMandatoryFields() {
@@ -95,7 +93,7 @@ public class Sandwich {
             if (bread == null) throw new IllegalStateException("Bread is mandatory");
         }
 
-        private void reset() {
+        public void reset() {
             name = null;
             meat = null;
             condiments.clear();

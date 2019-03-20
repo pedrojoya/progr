@@ -16,6 +16,7 @@ public class SandwichDirector {
     }
 
     public Sandwich buildSandwich(SandwichType sandwichType) {
+        builder.reset();
         switch (sandwichType) {
             case SERRANITO:
                 return builder
@@ -27,9 +28,9 @@ public class SandwichDirector {
                         .build();
             case HIGADO:
                 return builder
-                        .setName("Higado")
+                        .setName("Hígado")
                         .setBread(new Bread("pulguita"))
-                        .setMeat(new Meat("higado"))
+                        .setMeat(new Meat("hígado"))
                         .addCondiment(new Condiment("tocino"))
                         .build();
             case CATALAN:

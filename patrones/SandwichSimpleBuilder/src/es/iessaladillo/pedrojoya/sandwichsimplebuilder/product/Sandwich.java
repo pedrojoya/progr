@@ -65,26 +65,17 @@ public class Sandwich {
 
     public static class Builder {
 
-        private String style;
-        private String name;
-        private Bread bread;
+        private final String style;
+        private final String name;
+        private final Bread bread;
         private Meat meat;
         private final List<Condiment> condiments = new ArrayList<>();
         private Sauce sauce;
 
-        public Builder setStyle(String style) {
+        public Builder(String style, String name, Bread bread) {
             this.style = style;
-            return this;
-        }
-
-        public Builder setName(String name) {
             this.name = name;
-            return this;
-        }
-
-        public Builder setBread(Bread bread) {
             this.bread = bread;
-            return this;
         }
 
         public Builder setMeat(Meat meat) {
@@ -103,23 +94,7 @@ public class Sandwich {
         }
 
         public Sandwich build() {
-            validateMandatoryFields();
-            Sandwich sandwich = new Sandwich(this);
-            reset();
-            return sandwich;
-        }
-
-        private void validateMandatoryFields() {
-            if (style == null || style.isEmpty()) throw new IllegalStateException("Style is mandatory");
-            if (name == null || name.isEmpty()) throw new IllegalStateException("Name is mandatory");
-            if (bread == null) throw new IllegalStateException("Bread is mandatory");
-        }
-
-        private void reset() {
-            name = null;
-            meat = null;
-            condiments.clear();
-            sauce = null;
+            return new Sandwich(this);
         }
 
     }

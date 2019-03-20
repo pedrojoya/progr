@@ -7,28 +7,17 @@ import es.iessaladillo.pedrojoya.sandwichsimplebuilder.product.ingredients.Sauce
 public class Main {
 
     public static void main(String[] args) {
-
-        Sandwich.Builder builder = new Sandwich.Builder();
-
-        Sandwich serranito = builder
-                .setStyle("Estilo propio")
-                .setName("Serranito")
-                .setBread(new Bread("pulguita"))
+        // We use a diferent builder for each sandwich.
+        Sandwich serranito = new Sandwich.Builder("Estilo propio", "Serranito", new Bread("pulguita"))
                 .setMeat(new Meat("lomo"))
                 .addCondiment(new Condiment("pimiento"))
                 .addCondiment(new Condiment("jamón"))
                 .build();
-        Sandwich higado = builder
-                .setStyle("Estilo propio")
-                .setName("Higado")
-                .setBread(new Bread("pulguita"))
+        Sandwich higado = new Sandwich.Builder("Estilo propio", "Higado", new Bread("pulguita"))
                 .setMeat(new Meat("higado"))
                 .addCondiment(new Condiment("tocino"))
                 .build();
-        Sandwich catalan = builder
-                .setStyle("Estilo propio")
-                .setName("Catalan")
-                .setBread(new Bread("tosta"))
+        Sandwich catalan = new Sandwich.Builder("Estilo propio", "Catalan", new Bread("tosta"))
                 .addCondiment(new Condiment("jamón"))
                 .addCondiment(new Condiment("tomate"))
                 .setSauce(new Sauce("aceite"))

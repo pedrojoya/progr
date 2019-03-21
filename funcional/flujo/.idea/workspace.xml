@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="926c110c-31e2-41dd-bcd8-88af856aecd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/SuperFunciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Funcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/FuncionBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/ElevarAlCuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/EsPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/Imprimir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/Sumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/Flujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/Funcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/FuncionBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/Flujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/Funcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/FuncionBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/Flujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/utils/NumeroUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/Flujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/utils/NumeroUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/vfinal/utils/NumeroUtils.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-578">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/implementaciones/EsPar.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/implementaciones/EsImpar.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Criterio.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Predicado.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/HacerAlgo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Consumidor.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Transformador.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Predicado.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Consumidor.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/EsPar.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/Imprimir.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/ElevarAlCuadrado.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Funcion.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/FuncionBinaria.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/Sumar.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/v2/implementaciones/Sumar.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/Flujo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/v3/functionalinterfaces/FuncionBinaria.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/FuncionBinaria.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/v3/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/SuperFunciones.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/Flujo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v1/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/v4/functionalinterfaces/Consumidor.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/functionalinterfaces/Consumidor.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/Flujo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/utils/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/utils/NumeroUtils.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/v5/Flujo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/Flujo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v7/v6/utils/NumeroUtils.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v7/utils/NumeroUtils.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v7/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/Flujo.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+              <item name="functionalinterfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v4" type="462c0819:PsiDirectoryNode" />
+              <item name="functionalinterfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v5" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="v6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="vfinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flujo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
+              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
+              <item name="flujo" type="462c0819:PsiDirectoryNode" />
+              <item name="vfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553181784669" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.iessaladillo.pedrojoya.flujo.v3" />
+      <recent name="es.iessaladillo.pedrojoya.flujo.v2.functionalinterfaces" />
+      <recent name="es.iessaladillo.pedrojoya.flujo.v2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v7" />
+      <recent name="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/" />
+      <recent name="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5" />
+      <recent name="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4" />
+      <recent name="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (5)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.iessaladillo.pedrojoya.flujo.v1.Main" />
+      <module name="flujo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iessaladillo.pedrojoya.flujo.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.iessaladillo.pedrojoya.flujo.v2.Main" />
+      <module name="flujo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iessaladillo.pedrojoya.flujo.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.iessaladillo.pedrojoya.flujo.v3.Main" />
+      <module name="flujo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iessaladillo.pedrojoya.flujo.v3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.iessaladillo.pedrojoya.flujo.v5.Main" />
+      <module name="flujo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iessaladillo.pedrojoya.flujo.v5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.iessaladillo.pedrojoya.flujo.vfinal.Main" />
+      <module name="flujo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iessaladillo.pedrojoya.flujo.vfinal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="926c110c-31e2-41dd-bcd8-88af856aecd3" name="Default Changelist" comment="" />
+      <created>1553153344002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553153344002</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24105866" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" visible="true" weight="0.3297362" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32840237" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840237" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2326139" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Consumidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Transformador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/functionalinterfaces/Predicado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/EsPar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/Imprimir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/ElevarAlCuadrado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Consumidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Funcion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/FuncionBinaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/functionalinterfaces/Predicado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/implementaciones/Sumar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/v2/implementaciones/ElevarAlCuadrado.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/Predicado.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/v2/implementaciones/Imprimir.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/FuncionBinaria.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/Funcion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/v2/implementaciones/EsPar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/functionalinterfaces/Consumidor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/v2/implementaciones/Sumar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/v2/SuperFunciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="56" lean-forward="true" selection-start-line="17" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/Consumidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/Funcion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/FuncionBinaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/functionalinterfaces/Predicado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/SuperFunciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/functionalinterfaces/Predicado.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/functionalinterfaces/Funcion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/functionalinterfaces/FuncionBinaria.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/functionalinterfaces/Consumidor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/utils/NumeroUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/utils/NumeroUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/vfinal/utils/NumeroUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v7/Flujo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/backup/Flujo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/backup/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/Flujo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/Flujo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/Flujo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/Flujo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/flujo/v1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

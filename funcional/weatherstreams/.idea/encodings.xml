@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/base/menu/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/data/Database.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/service/ForecastService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/service/ForecastServiceImp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/ui/MainScreen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/weatherstreams/ui/MainScreenController.java" charset="UTF-8" />
+  </component>
+</project>

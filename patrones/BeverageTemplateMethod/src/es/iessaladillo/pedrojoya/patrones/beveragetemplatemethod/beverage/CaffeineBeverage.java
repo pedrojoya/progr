@@ -19,10 +19,10 @@ public abstract class CaffeineBeverage {
         System.out.println("Pouring beverage in cap");
     }
 
-    protected void onWaterBoilded() { }
+    void onWaterBoilded() { }
 
-    protected abstract void brew();
+    abstract void brew();
 
-    protected abstract void addCondiments();
+    abstract void addCondiments();
 
 }

@@ -1,14 +1,15 @@
 package es.iessaladillo.pedrojoya.patrones.beveragetemplatemethod;
 
+import es.iessaladillo.pedrojoya.patrones.beveragetemplatemethod.beverage.CaffeineBeverage;
 import es.iessaladillo.pedrojoya.patrones.beveragetemplatemethod.beverage.Coffee;
 import es.iessaladillo.pedrojoya.patrones.beveragetemplatemethod.beverage.Tea;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
-        Coffee coffee = new Coffee();
+        CaffeineBeverage coffee = new Coffee();
         coffee.prepareRecipe();
-        Tea tea = new Tea();
+        CaffeineBeverage tea = new Tea();
         tea.prepareRecipe();
     }
 

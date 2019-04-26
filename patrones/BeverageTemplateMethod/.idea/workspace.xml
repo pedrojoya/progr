@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e87ede-529e-4e49-9d6d-448c2fe2047e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../funcional/flujo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/out/production/flujo/es/iessaladillo/pedrojoya/flujo/backup/Flujo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/out/production/flujo/es/iessaladillo/pedrojoya/flujo/backup/Main.class" beforeDir="false" />
@@ -32,6 +28,10 @@
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../funcional/flujo/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/weatherstreams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../funcional/weatherstreams/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BeverageDecorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeverageDecorator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.form" beforeDir="false" afterPath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/Main.java" afterDir="false" />
@@ -48,25 +48,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="437">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,8 +76,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="133">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Tea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -115,8 +118,10 @@
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/CaffeineBeverage.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Tea.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Main.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Tea.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java" />
       </list>
     </option>
@@ -141,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -172,7 +176,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -264,6 +273,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -272,6 +282,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.3287841" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3287841" />
@@ -298,32 +309,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/CaffeineBeverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="437">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Tea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/beverage/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/beveragetemplatemethod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f17941f9-43bb-433f-a1fe-2d0b324dfd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/DoubleDispatchVisitor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/src/es/iessaladillo/pedrojoya/doubledispatchvisitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/src/es/iessaladillo/pedrojoya/doubledispatchvisitor/model/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/src/es/iessaladillo/pedrojoya/doubledispatchvisitor/model/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/src/es/iessaladillo/pedrojoya/doubledispatchvisitor/model/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoubleDispatchVisitor/src/es/iessaladillo/pedrojoya/doubledispatchvisitor/model/animalvisitor/AnimalVisitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../funcional/flujo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/out/production/flujo/es/iessaladillo/pedrojoya/flujo/backup/Flujo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/out/production/flujo/es/iessaladillo/pedrojoya/flujo/backup/Main.class" beforeDir="false" />
@@ -32,6 +40,11 @@
       <change beforePath="$PROJECT_DIR$/../../funcional/flujo/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../funcional/flujo/src/es/iessaladillo/pedrojoya/flujo/vfinal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../funcional/weatherstreams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../funcional/weatherstreams/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BeverageDecorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeverageDecorator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.form" beforeDir="false" afterPath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/LoginScreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../swing/login/src/es/iessaladillo/pedrojoya/login/Main.java" afterDir="false" />
@@ -48,16 +61,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="453">
+              <caret line="28" selection-start-line="6" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,40 +80,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="3" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="361">
+              <caret line="23" selection-start-line="3" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
               <folding>
-                <element signature="e#80#107#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="513">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
               <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,32 +126,33 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>accept</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>inter</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/Main.java" />
-        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
-    <option name="y" value="-54" />
-    <option name="width" value="1443" />
-    <option name="height" value="879" />
+    <option name="y" value="-157" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,11 +190,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -278,82 +289,80 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-157" width="1920" height="1057" extended-state="6" />
+    <frame x="-1920" y="-157" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.3296146" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287841" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="9" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="10" visible="true" weight="0.3296146" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="3" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#80#107#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="453">
+          <caret line="28" selection-start-line="6" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="361">
+          <caret line="23" selection-start-line="3" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="420">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/multipledispatchpolymorphism/model/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
           </folding>
         </state>
       </provider>
